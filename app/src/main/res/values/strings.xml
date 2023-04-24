@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">KoinSpike</string>
+    <string name="random_number_text">The random number is:</string>
 </resources>
